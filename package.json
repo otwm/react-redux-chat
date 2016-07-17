@@ -1,0 +1,27 @@
+{
+  "name": "react-redux-chat",
+  "version": "1.0.0",
+  "description": "chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otwm/react-redux-chat.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "kdo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otwm/react-redux-chat/issues"
+  },
+  "homepage": "https://github.com/otwm/react-redux-chat#readme",
+  "devDependencies": {
+    "eslint": "^3.1.0",
+    "eslint-plugin-react": "^5.2.2"
+  }
+}
